@@ -3,7 +3,7 @@
 #pragma once
 
 #include "./OVS/TupleSpaceSearch.h"
-#inclue "./TSS/tss.h"
+#include "./TSS/tss.h"
 
 #define maxBits 4
 
